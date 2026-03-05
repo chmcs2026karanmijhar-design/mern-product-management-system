@@ -3,7 +3,7 @@ import { Toaster } from "react-hot-toast";
 
 import HomePage from "./pages/homePage";
 import CreatePage from "./pages/createPage";
-import EditPage from "./pages/EditPage";
+import EditPage from "./pages/editPage";
 
 import Navbar from "./components/Navbar";
 

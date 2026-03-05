@@ -83,37 +83,4 @@ This application allows users to manage products efficiently with features like 
 
 ---
 
-## Project Structure
-│
-├── backend
-│ ├── src
-│ │ ├── config
-│ │ ├── controllers
-│ │ ├── models
-│ │ ├── routes
-│ │ └── server.js
-│ │
-│ ├── package.json
-│ └── .env
-│
-├── frontend
-│ ├── src
-│ │ ├── components
-│ │ │ └── ProductCard.jsx
-│ │ │
-│ │ ├── pages
-│ │ │ ├── HomePage.jsx
-│ │ │ ├── CreatePage.jsx
-│ │ │ └── EditPage.jsx
-│ │ │
-│ │ ├── lib
-│ │ │ └── axios.js
-│ │ │
-│ │ ├── App.jsx
-│ │ ├── main.jsx
-│ │ └── index.css
-│ │
-│ ├── package.json
-│ └── vite.config.js
-│
-└── README.md
+

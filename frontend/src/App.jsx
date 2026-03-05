@@ -5,7 +5,7 @@ import HomePage from "./pages/homePage";
 import CreatePage from "./pages/createPage";
 import EditPage from "./pages/editPage";
 
-import Navbar from "./components/Navbar";
+import Navbar from "./components/navbar";
 
 function App() {
   return (
